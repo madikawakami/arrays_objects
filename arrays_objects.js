@@ -26,4 +26,8 @@ var donut = {
 
 
 
+function funny (haha) {
+	console.log(haha [4] + haha[2]);
+}
+funny (number)
 
